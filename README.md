@@ -1,2 +1,2 @@
-# idcard
+# IDcard
 perfil del estudiante
